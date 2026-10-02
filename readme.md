@@ -23,7 +23,87 @@ generate_recipe(["rice", "chicken"])
 
 
 ## Results
-Test perplexity: 
+Test perplexity: Recipe: Title: Garlic Rice
+Ingredients:
+rice
+garlic
+toasted almonds
+salt
+pepper
+cumin
+fresh parsley
+toasted almonds
+salt
+pepper
+cumin
+fresh parsley
+canned tomato paste
+olive oil
+garlic
+fresh parsley
+canned tomato paste
+olive oil
+garlic
+fresh parsley
+canned tomato paste
+olive oil
+garlic
+fresh parsley
+canned tomato paste
+olive oil
+garlic
+fresh parsley
+canned tomato paste
+olive oil
+garlic
+fresh parsley
+canned tomato paste
+olive oil
+garlic
+fresh parsley
+canned tomato paste
+olive oil
+garlic
+fresh parsley
+canned tomato paste
+olive oil
+garlic
+fresh parsley
+canned tomato paste
+olive oil
+garlic
+fresh parsley
+canned tomato paste
+olive oil
+garlic
+fresh parsley
+canned tomato paste
+olive oil
+garlic
+fresh parsley
+canned tomato paste
+olive oil
+garlic
+fresh parsley
+canned tomato paste
+olive oil
+garlic
+fresh parsley
+canned tomato paste
+olive oil
+garlic
+fresh parsley
+canned tomato paste
+olive oil
+garlic
+fresh parsley
+canned tomato paste
+olive oil
+garlic
+fresh parsley
+canned tomato paste
+olive oil
+garlic
 
 ## Limitations and next steps
 This is a fast demo run (800 examples, 1 epoch). To get stronger recipes, raise `NUM_EXAMPLES`, train for more epochs, and increase `MAX_LENGTH`.
